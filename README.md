@@ -30,9 +30,13 @@ Achieves AUC 0.9463 and F1 0.8647 on the APTOS 2019 dataset.
 ## Tech I've worked with
 
 **Languages** : Python · TypeScript · JavaScript · SQL
+
 **Frontend** : Next.js · React · Tailwind CSS
+
 **Backend** : PostgreSQL · Supabase · Prisma
+
 **ML / AI** : PyTorch · EfficientNet · GradCAM · scikit-learn · Anthropic Claude API
+
 **Tools** : Git · Vercel · Hugging Face · Google Colab
 
 ---
