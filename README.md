@@ -7,13 +7,13 @@ Currently focused on financial tech and medical AI.
 
 ## What I'm Building
 
-**Quantr** — India's precision financial research platform for equity investors.
+**Quantr**: India's precision financial research platform for equity investors.
 Stock screener, portfolio tracker, and AI analyst for NSE/BSE markets.
 Built with Next.js, TypeScript, PostgreSQL, and the Anthropic Claude API.
 
-**Diabetic Retinopathy Detection** — Deep learning screening tool for early DR detection
+**Diabetic Retinopathy Detection**: Deep learning screening tool for early DR detection
 from retinal fundus images. Deployed as a web app on Hugging Face Spaces.
-Achieves AUC 0.9463 and F1 0.8647 on the APTOS 2019 dataset.
+Achieves AUC 0.9463 and F1 0.8647 on the APTOS 2019 dataset. 
 
 ---
 
@@ -29,21 +29,21 @@ Achieves AUC 0.9463 and F1 0.8647 on the APTOS 2019 dataset.
 
 ## Tech I've worked with
 
-**Languages** — Python · TypeScript · JavaScript · SQL
+**Languages** : Python · TypeScript · JavaScript · SQL
 
-**Frontend** — Next.js · React · Tailwind CSS
+**Frontend** : Next.js · React · Tailwind CSS
 
-**Backend** — PostgreSQL · Supabase · Prisma
+**Backend** : PostgreSQL · Supabase · Prisma
 
-**ML / AI** — PyTorch · EfficientNet · GradCAM · scikit-learn · Anthropic Claude API
+**ML / AI** : PyTorch · EfficientNet · GradCAM · scikit-learn · Anthropic Claude API
 
-**Tools** — Git · Vercel · Hugging Face · Google Colab
+**Tools** : Git · Vercel · Hugging Face · Google Colab
 
 ---
 
 ## Currently
 
-- Contributing to Quantr — working on auth, Portfolio GPT, and UI
+- Contributing to Quantr: working on auth, Portfolio GPT, and UI
 - Exploring improvements to the DR detection model
 - Open to internships in AI or full-stack development
 
